@@ -1,1 +1,3 @@
 - Remember to use temporary var
+- Initialize empty array
+- Use left and right index for sort
